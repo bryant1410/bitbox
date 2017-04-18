@@ -6,7 +6,7 @@ BitBox is a web frontend for BitTorrent Sync.  BitBox allows you to share your b
 BitBox uses selective syncing, so only the files you're sharing are downloaded to your disk.  You can easily share files from multiple BitTorrent Sync folders.
 
 -----
-##Installation##
+## Installation ##
 BitBox is a CodeIgniter web application.
 
 In order to use BitBox, you'll need a [BitTorrent Sync API key](http://www.bittorrent.com/sync/developers).  
@@ -41,6 +41,6 @@ When a file is shared, BitBox asks BitTorrent Sync to begin syncing.  It can tak
 
 -----
 
-##Questions?##
+## Questions? ##
 
 [Get In Touch!](colin@divergentmedia.com)
